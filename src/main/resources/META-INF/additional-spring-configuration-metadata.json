@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "cors.allowedMethods",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowedMethods'"
+  },
+  {
+    "name": "cors.allowedHeaders",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowedHeaders'"
+  },
+  {
+    "name": "cors.allowCredentials",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowCredentials'"
+  },
+  {
+    "name": "cors.allowedOrigins",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowedOrigins'"
+  },
+  {
+    "name": "cors.Configuration",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.Configuration'"
+  }
+]}
